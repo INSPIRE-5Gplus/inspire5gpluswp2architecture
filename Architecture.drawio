@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T09:30:47.711Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 OPR/69.0.3686.77" etag="jZd9igW3XRDg-g7B9A8Q" version="13.3.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-07-21T09:31:51.985Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 OPR/69.0.3686.77" etag="NPwDmLIZapp_SlB4vcoU" version="13.3.9" type="github" pages="3">
   <diagram id="vbSpEZDxIwtjPWaokUpX" name="Domain">
     <mxGraphModel dx="1062" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2024,7 +2024,7 @@
         <mxCell id="bhhveW3jsR8urkkE4w5G-29" value="&lt;span style=&quot;font-size: 21px&quot;&gt;Software&lt;br&gt;Component&lt;br&gt;Manifest&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="W3LztqFI7IO9FUA6SYYw-1">
           <mxGeometry x="1139.9955045871561" y="827" width="118.89908256880734" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bhhveW3jsR8urkkE4w5G-30" value="&lt;span style=&quot;font-size: 21px&quot;&gt;VNF&lt;br&gt;Certification&lt;br&gt;Certificate&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="W3LztqFI7IO9FUA6SYYw-1">
+        <mxCell id="bhhveW3jsR8urkkE4w5G-30" value="&lt;span style=&quot;font-size: 21px&quot;&gt;VNF&lt;br&gt;Certification&lt;br&gt;Certificate&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="W3LztqFI7IO9FUA6SYYw-1">
           <mxGeometry x="1274.9955045871561" y="820" width="118.89908256880734" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bhhveW3jsR8urkkE4w5G-31" value="&lt;span style=&quot;font-size: 21px&quot;&gt;AuthZForce&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="W3LztqFI7IO9FUA6SYYw-1">
@@ -2053,6 +2053,12 @@
         </mxCell>
         <mxCell id="bhhveW3jsR8urkkE4w5G-39" value="&lt;span style=&quot;font-size: 21px&quot;&gt;vHoneyNet&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="W3LztqFI7IO9FUA6SYYw-1">
           <mxGeometry x="1489.9955045871561" y="1010" width="118.89908256880734" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bhhveW3jsR8urkkE4w5G-40" value="&lt;span style=&quot;font-size: 21px&quot;&gt;WP4&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="W3LztqFI7IO9FUA6SYYw-1">
+          <mxGeometry x="2081.1055045871562" y="880" width="118.89908256880734" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bhhveW3jsR8urkkE4w5G-41" value="&lt;span style=&quot;font-size: 21px&quot;&gt;WP3&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="W3LztqFI7IO9FUA6SYYw-1">
+          <mxGeometry x="2082.9455045871564" y="960" width="118.89908256880734" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
