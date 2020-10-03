@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T07:52:33.230Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="SJGBg2WNXrcOF6agVBfa" version="13.7.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-03T18:21:35.993Z" agent="5.0 (Windows)" etag="02NyrrdhN7miD8emerF1" version="13.7.7" type="github" pages="4">
   <diagram id="vbSpEZDxIwtjPWaokUpX" name="Domain">
-    <mxGraphModel dx="786" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -897,7 +897,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MultiDomain_Enablers" id="DTtLC3KSyEEjaBMgJvAB">
-    <mxGraphModel dx="786" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1637" dy="2741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="W3LztqFI7IO9FUA6SYYw-0" />
         <mxCell id="W3LztqFI7IO9FUA6SYYw-1" parent="W3LztqFI7IO9FUA6SYYw-0" />
@@ -1546,7 +1546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MultiDomain" id="gUSrFQBp-YHTL7ThgnrN">
-    <mxGraphModel dx="786" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2292" dy="3176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="W3LztqFI7IO9FUA6SYYw-0" />
         <mxCell id="W3LztqFI7IO9FUA6SYYw-1" parent="W3LztqFI7IO9FUA6SYYw-0" />
@@ -1790,7 +1790,7 @@
           <mxGeometry x="1596" y="551.37" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vogafc54eISsSNEZ0fWL-0" value="E2E&lt;br&gt;Trust Management" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffff88;fontSize=24;strokeColor=#36393d;verticalAlign=top;" parent="W3LztqFI7IO9FUA6SYYw-1" vertex="1">
-          <mxGeometry x="1733" y="-837" width="150" height="290" as="geometry" />
+          <mxGeometry x="1733" y="-837" width="197" height="290" as="geometry" />
         </mxCell>
         <mxCell id="W3LztqFI7IO9FUA6SYYw-22" value="Service Management Domain" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=top;" parent="W3LztqFI7IO9FUA6SYYw-1" vertex="1">
           <mxGeometry x="2269" y="197.62" width="167.05" height="330" as="geometry" />
@@ -2020,11 +2020,11 @@
         <mxCell id="bhhveW3jsR8urkkE4w5G-9" value="Policy&lt;br style=&quot;font-size: 18px;&quot;&gt;Interpreter" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f0a30a;fontSize=18;strokeColor=#BD7000;verticalAlign=middle;fontColor=#ffffff;" parent="W3LztqFI7IO9FUA6SYYw-1" vertex="1">
           <mxGeometry x="1045.83" y="278.6" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bhhveW3jsR8urkkE4w5G-11" value="Trust&lt;br style=&quot;font-size: 18px;&quot;&gt;Manager" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e3c800;fontSize=18;strokeColor=#B09500;verticalAlign=middle;fontColor=#ffffff;" parent="W3LztqFI7IO9FUA6SYYw-1" vertex="1">
-          <mxGeometry x="1748" y="-679" width="120" height="50" as="geometry" />
+        <mxCell id="bhhveW3jsR8urkkE4w5G-11" value="Trust/Reputation&lt;br style=&quot;font-size: 18px&quot;&gt;Manager" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e3c800;fontSize=18;strokeColor=#B09500;verticalAlign=middle;fontColor=#ffffff;" parent="W3LztqFI7IO9FUA6SYYw-1" vertex="1">
+          <mxGeometry x="1748" y="-679" width="152" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bhhveW3jsR8urkkE4w5G-13" value="Behavioural&lt;br style=&quot;font-size: 18px;&quot;&gt;Profiles" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e3c800;fontSize=18;strokeColor=#B09500;verticalAlign=middle;fontColor=#ffffff;" parent="W3LztqFI7IO9FUA6SYYw-1" vertex="1">
-          <mxGeometry x="1748" y="-621" width="120" height="50" as="geometry" />
+          <mxGeometry x="1748" y="-621" width="152" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bhhveW3jsR8urkkE4w5G-18" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Discovery&lt;br style=&quot;font-size: 16px&quot;&gt;UI&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;fontSize=16;" parent="W3LztqFI7IO9FUA6SYYw-1" vertex="1">
           <mxGeometry x="1570" y="-776" width="118.9" height="70" as="geometry" />
