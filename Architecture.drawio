@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T15:59:14.390Z" agent="5.0 (X11)" etag="s5OYHznASL24UFTievGh" version="13.8.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-27T15:59:45.227Z" agent="5.0 (X11)" etag="SBjSwrH1ZJ2RP8_zvafz" version="13.8.5" type="github" pages="8">
   <diagram id="vbSpEZDxIwtjPWaokUpX" name="Domain">
     <mxGraphModel dx="2032" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2220,12 +2220,6 @@
         <mxCell id="EICFaPROtNKrCwKwZO-b-54" value="SDN&lt;br&gt;CONTROLLER" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="EICFaPROtNKrCwKwZO-b-20">
           <mxGeometry x="457.1798165137616" y="-1" width="134.20183486238534" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EICFaPROtNKrCwKwZO-b-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;strokeWidth=5;align=left;verticalAlign=top;" vertex="1" parent="EICFaPROtNKrCwKwZO-b-20">
-          <mxGeometry x="88.9" y="-82.36" width="2172.1" height="181.36" as="geometry" />
-        </mxCell>
-        <mxCell id="EICFaPROtNKrCwKwZO-b-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#ffffff;strokeWidth=5;align=left;verticalAlign=top;" vertex="1" parent="EICFaPROtNKrCwKwZO-b-20">
-          <mxGeometry x="35.95" y="-89.92" width="2182.05" height="181.36" as="geometry" />
-        </mxCell>
         <mxCell id="EICFaPROtNKrCwKwZO-b-24" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;b&gt;Domain&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;b&gt;Infrastructure&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;b&gt;Resources&lt;/b&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=5;align=right;verticalAlign=top;fillColor=#ffffff;" vertex="1" parent="EICFaPROtNKrCwKwZO-b-20">
           <mxGeometry x="12.850000000000001" y="-101" width="2161.15" height="181.36" as="geometry" />
         </mxCell>
@@ -2286,14 +2280,6 @@
             <Array as="points">
               <mxPoint x="906.7559633027523" y="41" />
               <mxPoint x="906.7559633027523" y="9" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EICFaPROtNKrCwKwZO-b-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="EICFaPROtNKrCwKwZO-b-20" source="EICFaPROtNKrCwKwZO-b-40" target="EICFaPROtNKrCwKwZO-b-37">
-          <mxGeometry x="35" y="489" as="geometry">
-            <Array as="points">
-              <mxPoint x="1045.4311926605508" y="59" />
-              <mxPoint x="1045.4311926605508" y="59" />
             </Array>
           </mxGeometry>
         </mxCell>
