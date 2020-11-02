@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T11:20:11.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.56" etag="MFsgN9UoKQs_tSKLvZy2" version="13.8.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-02T17:42:05.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.56" etag="kdPaj8hGXVv0KU4xE2mv" version="13.8.8" type="github" pages="9">
   <diagram id="vbSpEZDxIwtjPWaokUpX" name="Domain">
     <mxGraphModel dx="782" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1546,7 +1546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MultiDomain_NFV-SEC024_Mapping" id="gdfWI-__vbLuyL7r51E3">
-    <mxGraphModel dx="1564" dy="2790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="2694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="q9EbbyznicKKX61u4MmI-0" />
         <mxCell id="q9EbbyznicKKX61u4MmI-1" parent="q9EbbyznicKKX61u4MmI-0" />
@@ -2524,7 +2524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="VerticalArranged_Simplified_HLA" id="z4yraBRIU1PW_pUa-ond">
-    <mxGraphModel dx="626" dy="1243" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1738" dy="1983" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="PQJ8L_PufAZWJHa5Sb4Z-0" />
         <mxCell id="PQJ8L_PufAZWJHa5Sb4Z-1" parent="PQJ8L_PufAZWJHa5Sb4Z-0" />
@@ -2903,7 +2903,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="WhitePaperLoops_VerticalArranged_Simplified_HLA" id="MoecUHQmPDg8qWKmfrEC">
-    <mxGraphModel dx="782" dy="1347" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="2127" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="uguREClKw9ePOjd-_mbH-0" />
         <mxCell id="uguREClKw9ePOjd-_mbH-1" parent="uguREClKw9ePOjd-_mbH-0" />
@@ -3278,11 +3278,50 @@
             <mxPoint x="902.7199999999999" y="730.89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NmFLZ5LsGyoE3F3goQ1I-0" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_male;" vertex="1" parent="uguREClKw9ePOjd-_mbH-1">
+          <mxGeometry x="1553.48" y="-74.5" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BuDW38UeKnVXlitdwUZR-0" value="" style="endArrow=classic;html=1;strokeWidth=15;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="uguREClKw9ePOjd-_mbH-1" target="uguREClKw9ePOjd-_mbH-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1547" y="-18" as="sourcePoint" />
+            <mxPoint x="1260" y="-480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1157" y="-109" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuDW38UeKnVXlitdwUZR-1" value="" style="endArrow=classic;html=1;strokeWidth=15;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=90.89;exitPerimeter=0;" edge="1" parent="uguREClKw9ePOjd-_mbH-1" source="uguREClKw9ePOjd-_mbH-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1557.0000000000005" y="-8" as="sourcePoint" />
+            <mxPoint x="885.8499999999995" y="252.49999999999955" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1162" y="-76" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue_u6fzAic-i-VQTo7HZ-0" value="" style="endArrow=classic;html=1;strokeWidth=15;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="uguREClKw9ePOjd-_mbH-1" source="uguREClKw9ePOjd-_mbH-19" target="uguREClKw9ePOjd-_mbH-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1557.0000000000005" y="-8" as="sourcePoint" />
+            <mxPoint x="885.8499999999995" y="252.49999999999955" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1DogG4IFSJ5T83gukYR-0" value="" style="endArrow=classic;html=1;strokeWidth=15;fillColor=#f0a30a;strokeColor=#BD7000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="uguREClKw9ePOjd-_mbH-1" source="uguREClKw9ePOjd-_mbH-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1435" y="-581.5" as="sourcePoint" />
+            <mxPoint x="877" y="1209" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="803" y="122" />
+              <mxPoint x="1087" y="122" />
+              <mxPoint x="1075" y="1209" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="BAK_ERASEME_WP2WhitePaperLoopsProposal_MultiDomain_NFV-SEC024_Mapping" id="HA9m5ZJ6ny8A6efAXExB">
-    <mxGraphModel dx="1564" dy="2694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3128" dy="3734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="x_8by9O1ejvPoWtZFWIn-0" />
         <mxCell id="x_8by9O1ejvPoWtZFWIn-1" parent="x_8by9O1ejvPoWtZFWIn-0" />
