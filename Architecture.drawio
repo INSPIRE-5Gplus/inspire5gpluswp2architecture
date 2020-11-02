@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T10:44:29.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.56" etag="aXN65cG_9VFMQxjGy8YH" version="13.8.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-02T10:57:00.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.56" etag="N2yAnf5RjFqEj32AOMXb" version="13.8.8" type="github" pages="8">
   <diagram id="vbSpEZDxIwtjPWaokUpX" name="Domain">
     <mxGraphModel dx="782" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2334,7 +2334,7 @@
             <mxPoint x="2542" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EICFaPROtNKrCwKwZO-b-64" value="E2E&lt;br&gt;Trust Management" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffff88;fontSize=24;strokeColor=#36393d;verticalAlign=middle;" parent="EICFaPROtNKrCwKwZO-b-1" vertex="1">
+        <mxCell id="EICFaPROtNKrCwKwZO-b-64" value="E2E&lt;br&gt;Trust Management" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffff88;fontSize=24;verticalAlign=middle;strokeColor=#FFD966;" parent="EICFaPROtNKrCwKwZO-b-1" vertex="1">
           <mxGeometry x="1877" y="-611" width="197" height="123" as="geometry" />
         </mxCell>
         <mxCell id="EICFaPROtNKrCwKwZO-b-65" value="Service Management Domain" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;align=center;verticalAlign=middle;" parent="EICFaPROtNKrCwKwZO-b-1" vertex="1">
