@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T10:01:17.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.56" etag="Us-m-ggY4FQ2QIoIH1P7" version="13.8.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-02T10:44:29.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.56" etag="aXN65cG_9VFMQxjGy8YH" version="13.8.8" type="github" pages="8">
   <diagram id="vbSpEZDxIwtjPWaokUpX" name="Domain">
     <mxGraphModel dx="782" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2123,7 +2123,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Simplified_HLA" id="a8Scvzos_dQYOtmtQCzj">
-    <mxGraphModel dx="782" dy="1395" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3128" dy="3099" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="EICFaPROtNKrCwKwZO-b-0" />
         <mxCell id="EICFaPROtNKrCwKwZO-b-1" parent="EICFaPROtNKrCwKwZO-b-0" />
@@ -2513,6 +2513,12 @@
         </mxCell>
         <mxCell id="VKh25vjTQB5FcmVTBscU-2" value="Trust Management" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=23;strokeWidth=3;fillColor=#FFFF66;" vertex="1" parent="EICFaPROtNKrCwKwZO-b-1">
           <mxGeometry x="1341" y="182" width="244.83" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="VKh25vjTQB5FcmVTBscU-3" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=16;entryX=0.311;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="EICFaPROtNKrCwKwZO-b-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1461.0299999999997" y="332.00000000000045" as="sourcePoint" />
+            <mxPoint x="1461" y="246" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
