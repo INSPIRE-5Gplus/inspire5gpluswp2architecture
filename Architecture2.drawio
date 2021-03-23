@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T20:53:35.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="fImXbCgq1CD-qh9HuGja" version="14.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-23T20:54:36.142Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="WDt4ej7fT4_okH7jEbKH" version="14.5.0" type="github" pages="3">
   <diagram name="MultiDomain_V2" id="oCpzA1Oe0NERZCzDxBnO">
     <mxGraphModel dx="1026" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1140,12 +1140,6 @@
         <mxCell id="LMruhUIacmta4encqGes-10" value="&lt;span style=&quot;font-size: 23px&quot;&gt;Service Management Functions&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="LMruhUIacmta4encqGes-1">
           <mxGeometry x="1189" y="-268" width="162" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="LMruhUIacmta4encqGes-11" value="" style="group;align=center;spacingRight=0;spacingLeft=0;" vertex="1" connectable="0" parent="LMruhUIacmta4encqGes-1">
-          <mxGeometry x="52" y="527" width="2438" height="231" as="geometry" />
-        </mxCell>
-        <mxCell id="LMruhUIacmta4encqGes-12" value="Infrastructure" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=24;verticalAlign=middle;" vertex="1" parent="LMruhUIacmta4encqGes-11">
-          <mxGeometry x="516.4220183486239" y="-108.0743801652892" width="299.71743119266057" height="188.4297520661157" as="geometry" />
-        </mxCell>
         <mxCell id="LMruhUIacmta4encqGes-13" value="E2E Decision&lt;br&gt;&lt;span&gt;Engine&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=23;strokeWidth=3;" vertex="1" parent="LMruhUIacmta4encqGes-1">
           <mxGeometry x="285.59000000000003" y="-117.99999999999977" width="162" height="97" as="geometry" />
         </mxCell>
@@ -1172,9 +1166,6 @@
             <mxPoint x="-31" y="33.000000000000455" as="sourcePoint" />
             <mxPoint x="27" y="33.000000000000455" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="LMruhUIacmta4encqGes-22" value="Security&lt;br&gt;AGENT" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;strokeWidth=6;" vertex="1" parent="LMruhUIacmta4encqGes-1">
-          <mxGeometry x="513.3911049845015" y="470" width="134.20183486238534" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LMruhUIacmta4encqGes-23" value="E2E&amp;nbsp;Security&lt;br&gt;Analytics Engine" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;fontSize=24;strokeColor=#82b366;verticalAlign=middle;" vertex="1" parent="LMruhUIacmta4encqGes-1">
           <mxGeometry x="480" y="-11" width="162" height="97" as="geometry" />
